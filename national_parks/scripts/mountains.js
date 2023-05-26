@@ -50,3 +50,4 @@ function loadMountainTable(name) {
 function clearTable() {
   mountainTblBody.innerHTML = "";
 }
+
